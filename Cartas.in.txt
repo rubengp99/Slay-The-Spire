@@ -1,0 +1,103 @@
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+poder/0/avivar/1/4/fortalecer/2
+poder/0/agilizar/1/4/agilizar/2
+ataque/3/ninguno/0/0/golpe/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+ataque/6/ninguno/0/0/golpe fuerte/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+poder/0/agilizar/1/4/agilizar/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+ataque/6/ninguno/0/0/golpe fuerte/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+maldicion/2/debilitar/2/3/romper alma/2
+ataque/6/ninguno/0/0/golpe fuerte/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+poder/0/agilizar/1/4/agilizar/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+ataque/6/ninguno/0/0/golpe fuerte/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+maldicion/2/debilitar/2/3/romper alma/2
+ataque/6/ninguno/0/0/golpe fuerte/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+poder/0/agilizar/1/4/agilizar/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+poder/0/agilizar/1/4/agilizar/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+ataque/6/ninguno/0/0/golpe fuerte/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+maldicion/2/debilitar/2/3/romper alma/2
+maldicion/2/debilitar/2/3/romper alma/2
+ataque/6/ninguno/0/0/golpe fuerte/2
+ataque/3/ninguno/0/0/golpe/1
+ataque/5/vulnerable/3/1/rompe armaduras/2
+ataque/6/ninguno/0/0/golpe fuerte/1
+habilidad/0/curacion/30000/3/curar/2
