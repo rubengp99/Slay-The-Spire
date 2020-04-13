@@ -18,9 +18,9 @@ public class Entidad {
      //No, no es una nativa, es una clase genérica de Pila.
     private Pila<Carta> cartas;
     private Lista<Efecto> efectos;
-    
     private int n;
     
+    @SuppressWarnings("empty-statement")
     public Entidad(String tipo){
         //Este random es para escoger el nombre y la imagen del monstruo
         //Si la entidad es de tipo Jugador, estos valores se asignan, mas no se usan
@@ -77,6 +77,9 @@ public class Entidad {
         
         if(this.nombre.contains("dmgT++"))
             daño *= 1.25;
+        
+        if(this.nombre.contains("def++"))
+            daño *= 0.70;
         
         this.vida = this.vida - daño;
     }
@@ -178,14 +181,31 @@ public class Entidad {
         String dialogos = "";
         boolean turnos = (jugadas.getTurnos() > 0);
         String vs = "contra "+s.split(" ")[0];
+        String aux = "";
+        String turno;
+        turno = (jugadas.getTurnos() > 10000) ? " Por toda la partida." :" Por " + jugadas.getTurnos() + " turnos.";
+        switch(jugadas.getEfecto().toUpperCase()){
+            case "AVITAR":  
+                        aux = "FUERZA";
+                        break;
+            case "AGILIZAR":  
+                        aux = "DESTREZA";
+                        break;
+            case "CURACION":
+                        aux = "CURACION";
+                        break;
+            case "CURA":    
+                        aux = "CURA";
+                        break;
+        }
         if(jugadas.getDireccion()) 
-            dialogos = "¡¡ ha usado "+ jugadas.getNombre() 
-                            + " "+vs+", daño de "+ jugadas.getDaño() + "pts" 
-                            +((turnos)? " por "+ jugadas.getTurnos() +" turnos": "")+" !!";
+            dialogos = "Has usado "+ jugadas.getNombre() 
+                            + " contra "+vs+", ocasionas un daño de "+ jugadas.getDaño() + "pts." 
+                            +((turnos) ? turno : "");
         else
-            dialogos = "¡¡ ha usado "+ jugadas.getNombre() 
-                        + ", obtiene un beneficio de "+ jugadas.getPlus() + "pts" 
-                        + ((turnos)? " por "+ jugadas.getTurnos() +" turnos" : "")+" !!";
+            dialogos =  "Has usado "+ jugadas.getNombre() 
+                        + ", ganas un aumento de "+ jugadas.getPlus() + "pts en " +aux + ". " 
+                        + ((turnos) ? turno : "");
         
         return dialogos;
     }
@@ -194,5 +214,15 @@ public class Entidad {
     public String toString(){
         return nombre + " - " + vida + "/" + maximo +"HP";
     }
-
+    
+    
+    public void ajustarVida(float x){
+        this.vida *= x;
+        this.vida  = Math.round(this.vida);
+    }
+    
+    public void curar(int i){
+        if(this.vida + i < this.maximo)
+            this.vida += i;
+    }
 }
