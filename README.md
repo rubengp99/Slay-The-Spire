@@ -32,7 +32,7 @@ ___
 ***(Español)*** Entonces viene la presentación de los jugadores (jugador vs 1 o 2 enemigos).
 
 ![3](/capturas/Jugador.png)
-![3](/capturas/comabate1.png)
+![3](/capturas/combate1.png)
 ![4](/capturas/combate2.png)
 
 ### Actions / Acciones
