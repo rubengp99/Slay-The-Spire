@@ -21,7 +21,7 @@ ___
 
 ***(Español)*** Primera pantalla que verás, aquí leeras un poco sobre el proyecto y un poco de historia(es solo apra añadir diversión). 
 
-![1](/capturas/Inicio.png)
+![1](/capturas/inicio.png)
 
 ### Presentation / Presentación
 
